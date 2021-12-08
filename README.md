@@ -15,7 +15,7 @@
 
 ## Put `Shades of Purple` In Other Places
 
-I have built other `Shades of Purple` themes for different software. Here's a list.
+[@ahmadawais](https://github.com/ahmadawais/) has built other `Shades of Purple` themes for different software. Here's a list.
 
 - 🦄 [VSCode theme](https://github.com/ahmadawais/shades-of-purple-vscode) — Shades of Purple
 - 🦄 [iTerm2 theme](https://github.com/ahmadawais/shades-of-purple-iterm2) — Shades of Purple
